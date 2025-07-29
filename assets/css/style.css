@@ -618,6 +618,11 @@ a {
     justify-content: center;
     width: 56px;
     height: 56px;
+    background: #f9f9f9;
+}
+
+.footer .social-link + .social-link {
+    margin-left: 16px;
 }
 
 .social-link img {
